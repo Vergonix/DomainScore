@@ -1,0 +1,13 @@
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ConsoleBeta.exe.config
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ConsoleBeta.exe
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ConsoleBeta.pdb
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\Excel.Helper.dll
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ExcelDataReader.DataSet.dll
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ExcelDataReader.dll
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ICSharpCode.SharpZipLib.dll
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\Excel.Helper.xml
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ExcelDataReader.xml
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\bin\Debug\ExcelDataReader.DataSet.xml
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\obj\Debug\ConsoleBeta.csprojResolveAssemblyReference.cache
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\obj\Debug\ConsoleBeta.exe
+\\mcfilkrkorg43.bauer-pl.bauermedia.group\pawel.pietralik$\SharpDevelop Projects\abc\ConsoleBeta\obj\Debug\ConsoleBeta.pdb
